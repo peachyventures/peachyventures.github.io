@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sonoros</title>
+        <item>
+            <title>1.7.2</title>
+            <pubDate>Sat, 20 Apr 2024 15:43:15 +0100</pubDate>
+            <sparkle:version>2922</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://sonoros.app/s/Sonoros-v1-7-2.html</sparkle:releaseNotesLink>
+            <enclosure url="https://sonoros.app/s/Sonoros-v1-7-2.zip" length="14760209" type="application/octet-stream" sparkle:edSignature="0iBe8hwEI3Ut6mIAQ2OCDQiN+XL/tqL13AanFsUzyUqBnCrPfjJq3F1nfUKbOuaPnXKR5FxunQrLTL3soCLXAw=="/>
+        </item>
+        <item>
+            <title>1.7</title>
+            <pubDate>Fri, 29 Mar 2024 11:28:13 +0000</pubDate>
+            <sparkle:version>2914</sparkle:version>
+            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://sonoros.app/s/Sonoros-v1-7.html</sparkle:releaseNotesLink>
+            <enclosure url="https://sonoros.app/s/Sonoros-v1-7.zip" length="14719182" type="application/octet-stream" sparkle:edSignature="vpknlHjvCprrznPC4y9QDVA7C1VC5/u24umYTL+ABB+Vv8gMGkOJ9Y31Y7VJ3OIbgAPyTZuXf/x82kS4G5yUDw=="/>
+        </item>
+        <item>
+            <title>1.6.1</title>
+            <pubDate>Fri, 16 Feb 2024 08:53:39 +0000</pubDate>
+            <sparkle:version>2882</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://sonoros.app/s/Sonoros-v1-6-1.html</sparkle:releaseNotesLink>
+            <enclosure url="https://sonoros.app/s/Sonoros-v1-6-1.zip" length="14685568" type="application/octet-stream" sparkle:edSignature="VtGdtvxxtOL/3TbpFt5L1WwCGAjwO+ie6ErMRYVLK5JqqxW0nCg+YyhYjjml4vizJG+Hxhal/Mc1iACVb694Bg=="/>
+        </item>
+    </channel>
+</rss>
