@@ -145,7 +145,7 @@ a img {
 }
 
 html, body { 
-	overflow-x: visible; 
+	overflow-x: hidden; 
 }
 
 html {
