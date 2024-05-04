@@ -320,6 +320,9 @@ menu li {
 	font-size:1.4rem;
 	padding-top: 10px;
 	max-width:600px;
+	text-align: center;
+	display: block;
+	margin: 0 auto;
 }
 
 .button {
@@ -399,6 +402,8 @@ menu li {
 }
 
 #content-inner {
+	display: block;
+	max-width: 850px;
 	padding: 5%;
 }
 
@@ -442,6 +447,8 @@ menu li {
 	display:block;
 	margin:0 auto;
 	padding:0;
+	text-align: center;
+	width: 100%;
 }
 
 #section-header-left {
