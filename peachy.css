@@ -523,6 +523,11 @@ menu li {
 	height:750px;
 }
 
+#sonoros-content-logo {
+	width:450px; 
+	padding-top: 40px;
+}
+
 
 
 /* FOOTER */
@@ -566,91 +571,20 @@ footer {
 	text-align: right;
 }
 
-#footer-list {
-	display: flex;
-	text-align: center;
-	padding:0px;
-	margin:0px;
-	list-style: none;
-}
-
-#footer-list li {
-	padding:0px 10px;
-}
-
-#footer-list li.first-item {
-	padding-left:0px;
-}
-
-#footer-list li.last-item {
-	padding-right:0px;
+#footer-logo {
+	padding-right: 20px; 
+	vertical-align: top;
 }
 
 
 /* Responsive Styling */
 @media (max-width: 900px) {
-	#left-contact {
-		font-size: 2.6rem;
-		text-align: center;
-	}
-	
-	#left-contact h2 {
-		font-size: 2.8rem;
-	}
-	
-	#right-contact {
-		font-size: 2.8rem;
-		text-align:center;
-	}
-	
-	.socials-left {
-		padding-top:60px;
-		align-items: center;
-		align-content: center;
-		justify-content:center;
-	}
-	
-	.socials-left a {
-		margin-left: 20px;
-		margin-right: 20px;
-	}
-	
-	.email {
-		font-size: 2.8rem;
-	}
-	
 	h1 {
 		font-size: 5.2rem;
 	}
 	
 	h4 {
 		font-size: 4.8rem;
-	}
-	
-	#home-subhead {
-		font-size:1.9rem;
-	}
-	
-	#main-subhead {
-		font-size:1.7rem;
-	}
-	
-	#subheadline {
-		font-size: 2.3rem;
-	}
-	
-	#footer-inner-left, #footer-inner-right {
-		text-align:center;
-		flex-flow: column wrap;
-		width:100%;
-	}
-	
-	#footer-inner-right {
-		padding-top:35px;
-	}
-	
-	#footer-list {
-		justify-content: center !important;
 	}
 }
 
@@ -672,53 +606,29 @@ footer {
 		font-weight:bold;
 		font-size: 3rem;
 	}
-	
-	#main-subhead {
-		font-size:1.5rem;
+
+	#sonoros-content-logo {
+		width:380px; 
 	}
-	
-	#home-subhead {
-		font-size:1.7rem;
+		
+	#footer-inner-left, #footer-inner-right {
+		text-align:center;
+		flex-flow: column wrap;
+		align-items: center;
+		width:100%;
 	}
 
-	#subheadline {
-		font-size:2rem;
+	#footer-logo {
+		padding-right: 0px; 
+		padding-bottom: 20px;
+		vertical-align: top;
+		text-align: center;
+		margin: 0 auto;
 	}
-	
-	#left-contact {
-		font-size: 2.2rem;
-		text-align:center;
-	}
-	
-	#left-contact h2 {
-		font-size: 2.4rem;
-	}
-	
-	#right-contact {
-		font-size: 2.5rem;
-		text-align:center;
-	}
-	
-	.email {
-		font-size: 2.3rem;
-	}
-	
-	.column {
-    	width: 100%;
-  	}
 }
 
 @media (max-width: 400px) {
-	.email {
-		font-size: 1.8rem;
-	}
-	
 	#footer-content {
 	width:95%;
-
-	
-	#footer-list li {
-	padding:0px 5px;
-	}
 }
 }
