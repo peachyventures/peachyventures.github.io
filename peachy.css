@@ -610,6 +610,14 @@ footer {
 	#sonoros-content-logo {
 		width:380px; 
 	}
+
+	#grid-item {
+		min-width: 100%;
+	}
+	
+	#main-subhead {
+		font-size:1.5rem;
+	}
 		
 	#footer-inner-left, #footer-inner-right {
 		text-align:center;
