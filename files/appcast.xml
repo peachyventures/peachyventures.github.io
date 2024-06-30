@@ -3,6 +3,15 @@
     <channel>
         <title>Sonoros</title>
         <item>
+            <title>1.8</title>
+            <pubDate>Sun, 30 Jun 2024 12:49:50 +0100</pubDate>
+            <sparkle:version>3036</sparkle:version>
+            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v1-8.html</sparkle:releaseNotesLink>
+            <enclosure url="https://peachy.ventures/files/Sonoros-v1-8.zip" length="14901401" type="application/octet-stream" sparkle:edSignature="KD9z1dSJYtH7M8C966Uyh6FKfEKMizSRMQVOe4iDjElYlwKxCf/4xMdvaug2gm5/Q6QB1WIlOGlBszUqh8e6BA=="/>
+        </item>
+        <item>
             <title>1.7.2</title>
             <pubDate>Sat, 20 Apr 2024 15:43:15 +0100</pubDate>
             <sparkle:version>2922</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://sonoros.app/s/Sonoros-v1-7.html</sparkle:releaseNotesLink>
             <enclosure url="https://sonoros.app/s/Sonoros-v1-7.zip" length="14719182" type="application/octet-stream" sparkle:edSignature="vpknlHjvCprrznPC4y9QDVA7C1VC5/u24umYTL+ABB+Vv8gMGkOJ9Y31Y7VJ3OIbgAPyTZuXf/x82kS4G5yUDw=="/>
-        </item>
-        <item>
-            <title>1.6.1</title>
-            <pubDate>Fri, 16 Feb 2024 08:53:39 +0000</pubDate>
-            <sparkle:version>2882</sparkle:version>
-            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://sonoros.app/s/Sonoros-v1-6-1.html</sparkle:releaseNotesLink>
-            <enclosure url="https://sonoros.app/s/Sonoros-v1-6-1.zip" length="14685568" type="application/octet-stream" sparkle:edSignature="VtGdtvxxtOL/3TbpFt5L1WwCGAjwO+ie6ErMRYVLK5JqqxW0nCg+YyhYjjml4vizJG+Hxhal/Mc1iACVb694Bg=="/>
         </item>
     </channel>
 </rss>
