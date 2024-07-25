@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v1-8-1.html</sparkle:releaseNotesLink>
-            <enclosure url="https://peachy.ventures/files/Sonoros-v1-8-1.zip" length="14900707" type="application/octet-stream" sparkle:edSignature="+FknO9SxCcXKkTsMPjBiTiJPNe4gtQ4f39VIVSn/AIRaGhoquXrswnwGcsOIWIfAHOufi+85e7dZDXmUaozHCw=="/>
+            <enclosure url="https://peachy.ventures/files/Sonoros-v1-8-1.zip" length="14900707" type="application/octet-stream" sparkle:edSignature="4V3sDQKCZSfVYd/At0v96QE62ZmJ8KjVafkZwICeUQNsEjTPbxi08GFCgZrFMR1tPnUuET9KoSTLQP3oZzjKCg=="/>
         </item>
         <item>
             <title>1.8</title>
