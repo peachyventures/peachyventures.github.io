@@ -3,6 +3,15 @@
     <channel>
         <title>Sonoros</title>
         <item>
+            <title>1.8.2</title>
+            <pubDate>Mon, 05 Aug 2024 13:28:50 +0100</pubDate>
+            <sparkle:version>3060</sparkle:version>
+            <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v1-8-2.html</sparkle:releaseNotesLink>
+            <enclosure url="https://peachy.ventures/files/Sonoros-v1-8-2.zip" length="14911836" type="application/octet-stream" sparkle:edSignature="Dl9UknbCmj2HOUT3ljFg9wdNwhRtnRcVA3pTpc92yhT+s7GE4+Q0JtZ3BzT8HOPH0bvAQjC4wh8/FvTYmxf+Aw=="/>
+        </item>
+        <item>
             <title>1.8.1</title>
             <pubDate>Mon, 15 Jul 2024 12:15:09 +0100</pubDate>
             <sparkle:version>3041</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v1-8.html</sparkle:releaseNotesLink>
             <enclosure url="https://peachy.ventures/files/Sonoros-v1-8.zip" length="14901401" type="application/octet-stream" sparkle:edSignature="KD9z1dSJYtH7M8C966Uyh6FKfEKMizSRMQVOe4iDjElYlwKxCf/4xMdvaug2gm5/Q6QB1WIlOGlBszUqh8e6BA=="/>
-        </item>
-        <item>
-            <title>1.7.2</title>
-            <pubDate>Sat, 20 Apr 2024 15:43:15 +0100</pubDate>
-            <sparkle:version>2922</sparkle:version>
-            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://sonoros.app/s/Sonoros-v1-7-2.html</sparkle:releaseNotesLink>
-            <enclosure url="https://sonoros.app/s/Sonoros-v1-7-2.zip" length="14760209" type="application/octet-stream" sparkle:edSignature="0iBe8hwEI3Ut6mIAQ2OCDQiN+XL/tqL13AanFsUzyUqBnCrPfjJq3F1nfUKbOuaPnXKR5FxunQrLTL3soCLXAw=="/>
         </item>
     </channel>
 </rss>
