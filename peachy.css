@@ -356,6 +356,12 @@ menu li {
 	margin-top: 30px;
 }
 
+.btn-peach:hover {
+	background-color: #ffffff;
+	color: #F8B195;
+	transition: all 0.3s ease-in-out 0s;
+}
+
 .btn-sonoros {
 	background-color: white;
 	color:  #6E39F1;
