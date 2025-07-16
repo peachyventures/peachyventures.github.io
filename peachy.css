@@ -339,15 +339,21 @@ menu li {
 	transition: all 0.3s ease-in-out 0s;
 }
 
-.button:hover  {
-	background-color: #000000;
-	color: #fff;
-	transition: all 0.3s ease-in-out 0s;
+.btn-sonoros {
+	background-color: white;
+	color:  #6E39F1;
+	margin-top: 20px;
 }
 
 .btn-white {
 	background-color: white;
 	color:  #F8B195;
+}
+
+.btn-white:hover, .btn-sonoros:hover  {
+	background-color: #000000;
+	color: #fff;
+	transition: all 0.3s ease-in-out 0s;
 }
 
 .btn-peach {
@@ -360,12 +366,6 @@ menu li {
 	background-color: #ffffff;
 	color: #F8B195;
 	transition: all 0.3s ease-in-out 0s;
-}
-
-.btn-sonoros {
-	background-color: white;
-	color:  #6E39F1;
-	margin-top: 20px;
 }
 
 
