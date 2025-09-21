@@ -3,6 +3,15 @@
     <channel>
         <title>Sonoros</title>
         <item>
+            <title>2.4.2</title>
+            <pubDate>Sun, 21 Sep 2025 12:40:23 +0100</pubDate>
+            <sparkle:version>3910</sparkle:version>
+            <sparkle:shortVersionString>2.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-4-2.html</sparkle:releaseNotesLink>
+            <enclosure url="https://peachy.ventures/files/Sonoros-v2-4-2.zip" length="16822450" type="application/octet-stream" sparkle:edSignature="KUsmPdwEFvt5gZP7GQqjVaecCtkuOdBaY1xdCvLsXWbMzCcDFnQcY3ulKS5/1SKiSrrIyyn0stIXPaSWVQigBw=="/>
+        </item>
+        <item>
             <title>2.4</title>
             <pubDate>Mon, 08 Sep 2025 17:58:03 +0100</pubDate>
             <sparkle:version>3899</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-3-1.html</sparkle:releaseNotesLink>
             <enclosure url="https://peachy.ventures/files/Sonoros-v2-3-1.zip" length="16662472" type="application/octet-stream" sparkle:edSignature="ntBj0EMD/0KWGIOvdywFNYzvoE5wmu/OpsymFGqQ3ZGrrDtPQ9wkVafV1Sb63/bnj5sn1wpjB9JefM8zFcL9BA=="/>
-        </item>
-        <item>
-            <title>2.2</title>
-            <pubDate>Fri, 01 Aug 2025 13:11:25 +0100</pubDate>
-            <sparkle:version>3817</sparkle:version>
-            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-2.html</sparkle:releaseNotesLink>
-            <enclosure url="https://peachy.ventures/files/Sonoros-v2-2.zip" length="16660207" type="application/octet-stream" sparkle:edSignature="dc/5ZR26IxhgcE7NoLxqM4ZQMp1AlM3cxr3Clmb+AS9xlSrHbu3QhcH9dPiuJtXE+BH8KDfAp60Uy5DV0ZpfBw=="/>
         </item>
     </channel>
 </rss>
