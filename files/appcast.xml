@@ -3,6 +3,15 @@
     <channel>
         <title>Sonoros</title>
         <item>
+            <title>2.4.3</title>
+            <pubDate>Sat, 27 Sep 2025 14:23:35 +0100</pubDate>
+            <sparkle:version>3916</sparkle:version>
+            <sparkle:shortVersionString>2.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-4-3.html</sparkle:releaseNotesLink>
+            <enclosure url="https://peachy.ventures/files/Sonoros-v2-4-3.zip" length="16822952" type="application/octet-stream" sparkle:edSignature="3J2pxY0b7tNvOp3BPnK5lrgz0SoEmylJLJ2CmFUy2eb/VvBkU/qm+8kxSpIPktv8CUolMbvbRzsIMaX6BChADQ=="/>
+        </item>
+        <item>
             <title>2.4.2</title>
             <pubDate>Sun, 21 Sep 2025 12:40:23 +0100</pubDate>
             <sparkle:version>3910</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-4.html</sparkle:releaseNotesLink>
             <enclosure url="https://peachy.ventures/files/Sonoros-v2-4.zip" length="16798709" type="application/octet-stream" sparkle:edSignature="R3jdQF5kx++8MjUwwuj/2yk24PWj7kQ9/a50R4riTtAHnQpnkA903QF1jrSZaTguIgt4pB/zDAQW29OvX7CYDA=="/>
-        </item>
-        <item>
-            <title>2.3.1</title>
-            <pubDate>Sat, 30 Aug 2025 18:44:32 +0100</pubDate>
-            <sparkle:version>3820</sparkle:version>
-            <sparkle:shortVersionString>2.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-3-1.html</sparkle:releaseNotesLink>
-            <enclosure url="https://peachy.ventures/files/Sonoros-v2-3-1.zip" length="16662472" type="application/octet-stream" sparkle:edSignature="ntBj0EMD/0KWGIOvdywFNYzvoE5wmu/OpsymFGqQ3ZGrrDtPQ9wkVafV1Sb63/bnj5sn1wpjB9JefM8zFcL9BA=="/>
         </item>
     </channel>
 </rss>
