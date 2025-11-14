@@ -3,31 +3,31 @@
     <channel>
         <title>Sonoros</title>
         <item>
-            <title>2.2</title>
-            <pubDate>Fri, 01 Aug 2025 13:11:25 +0100</pubDate>
-            <sparkle:version>3817</sparkle:version>
-            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+            <title>2.4.4</title>
+            <pubDate>Fri, 10 Oct 2025 00:33:29 +0100</pubDate>
+            <sparkle:version>3919</sparkle:version>
+            <sparkle:shortVersionString>2.4.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-2.html</sparkle:releaseNotesLink>
-            <enclosure url="https://peachy.ventures/files/Sonoros-v2-2.zip" length="16660207" type="application/octet-stream" sparkle:edSignature="dc/5ZR26IxhgcE7NoLxqM4ZQMp1AlM3cxr3Clmb+AS9xlSrHbu3QhcH9dPiuJtXE+BH8KDfAp60Uy5DV0ZpfBw=="/>
+            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-4-4.html</sparkle:releaseNotesLink>
+            <enclosure url="https://peachy.ventures/files/Sonoros-v2-4-4.zip" length="16822482" type="application/octet-stream" sparkle:edSignature="tffrCX6bgx52AuNM1PAp5yekkyzLf/BxJnHaYp7ie3aTyFPerUAuyaTAACx8SR4ugdCGLqh/Cwt4BkhCwUxnCw=="/>
         </item>
         <item>
-            <title>2.1.1</title>
-            <pubDate>Wed, 16 Jul 2025 00:25:45 +0100</pubDate>
-            <sparkle:version>3806</sparkle:version>
-            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+            <title>2.4.3</title>
+            <pubDate>Sat, 27 Sep 2025 14:23:35 +0100</pubDate>
+            <sparkle:version>3916</sparkle:version>
+            <sparkle:shortVersionString>2.4.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-1-1.html</sparkle:releaseNotesLink>
-            <enclosure url="https://peachy.ventures/files/Sonoros-v2-1-1.zip" length="16643963" type="application/octet-stream" sparkle:edSignature="c10NRtJlWHUtAzQuebAQeYxrEyGxNFhWrp9XgK+mG87jStEokA0WrniwzfmLHBKhnWY8epetudwRZDM9ebcdAQ=="/>
+            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-4-3.html</sparkle:releaseNotesLink>
+            <enclosure url="https://peachy.ventures/files/Sonoros-v2-4-3.zip" length="16822952" type="application/octet-stream" sparkle:edSignature="3J2pxY0b7tNvOp3BPnK5lrgz0SoEmylJLJ2CmFUy2eb/VvBkU/qm+8kxSpIPktv8CUolMbvbRzsIMaX6BChADQ=="/>
         </item>
         <item>
-            <title>2.1</title>
-            <pubDate>Tue, 03 Jun 2025 21:17:03 +0100</pubDate>
-            <sparkle:version>3787</sparkle:version>
-            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+            <title>2.4.2</title>
+            <pubDate>Sun, 21 Sep 2025 12:40:23 +0100</pubDate>
+            <sparkle:version>3910</sparkle:version>
+            <sparkle:shortVersionString>2.4.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-1.html</sparkle:releaseNotesLink>
-            <enclosure url="https://peachy.ventures/files/Sonoros-v2-1.zip" length="16597653" type="application/octet-stream" sparkle:edSignature="q7NmA15aA5CUKvyGOvMp+2Z7rTYXGYDv3NuR/VzSJqjuoFqE3SLcj9twiNL3m4iRUVYWspFArDvzGYqB37FdCg=="/>
+            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-4-2.html</sparkle:releaseNotesLink>
+            <enclosure url="https://peachy.ventures/files/Sonoros-v2-4-2.zip" length="16822450" type="application/octet-stream" sparkle:edSignature="KUsmPdwEFvt5gZP7GQqjVaecCtkuOdBaY1xdCvLsXWbMzCcDFnQcY3ulKS5/1SKiSrrIyyn0stIXPaSWVQigBw=="/>
         </item>
     </channel>
 </rss>
