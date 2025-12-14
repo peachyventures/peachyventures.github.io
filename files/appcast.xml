@@ -3,6 +3,14 @@
     <channel>
         <title>Sonoros</title>
         <item>
+            <title>2.5</title>
+            <pubDate>Sat, 13 Dec 2025 17:03:02 +0000</pubDate>
+            <sparkle:version>3993</sparkle:version>
+            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://peachy.ventures/files/Sonoros-2-5.zip" length="12560260" type="application/octet-stream" sparkle:edSignature="6QN47+kYp80UCcGOkPLhDJH658NOvT8Z319Hej0Vmefsl6wImxjdFoTcJpI1ojz5F7+gqwaxbT86W70ciLmIAQ=="/>
+        </item>
+        <item>
             <title>2.4.4</title>
             <pubDate>Fri, 10 Oct 2025 00:33:29 +0100</pubDate>
             <sparkle:version>3919</sparkle:version>
