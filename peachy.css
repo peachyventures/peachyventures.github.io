@@ -917,6 +917,7 @@ footer {
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: bottom left;
+	background-repeat: no-repeat;
 	background-color: #6E39F1;
 	color: #fff;
 }
@@ -983,6 +984,12 @@ footer {
 
 	.hero-explainer {
 		max-width: 680px;
+	}
+
+	.sonoros-section {
+		background-attachment: scroll;
+		background-size: clamp(680px, 145vw, 1150px) auto;
+		background-position: center bottom;
 	}
 
 	.offering-grid,
