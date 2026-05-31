@@ -988,8 +988,8 @@ footer {
 
 	.sonoros-section {
 		background-attachment: scroll;
-		background-size: clamp(680px, 145vw, 1150px) auto;
-		background-position: center bottom;
+		background-size: 100% 100%;
+		background-position: center center;
 	}
 
 	.offering-grid,
