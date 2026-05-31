@@ -3,15 +3,6 @@
     <channel>
         <title>Sonoros</title>
         <item>
-            <title>2.8.1</title>
-            <pubDate>Sat, 30 May 2026 13:38:11 +0000</pubDate>
-            <sparkle:version>4473</sparkle:version>
-            <sparkle:shortVersionString>2.8.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-8-1.html</sparkle:releaseNotesLink>
-            <enclosure url="https://peachy.ventures/files/Sonoros-v2-8-1.zip" length="16274607" type="application/octet-stream"/>
-        </item>
-        <item>
             <title>2.8</title>
             <pubDate>Tue, 26 May 2026 15:09:46 +0100</pubDate>
             <sparkle:version>4437</sparkle:version>
