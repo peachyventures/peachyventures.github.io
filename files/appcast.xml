@@ -3,6 +3,15 @@
     <channel>
         <title>Sonoros</title>
         <item>
+            <title>2.8.2</title>
+            <pubDate>Tue, 02 Jun 2026 13:42:12 +0000</pubDate>
+            <sparkle:version>4509</sparkle:version>
+            <sparkle:shortVersionString>2.8.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-8-2.html</sparkle:releaseNotesLink>
+            <enclosure url="https://peachy.ventures/files/Sonoros-v2-8-2.zip" length="16342930" type="application/octet-stream" sparkle:edSignature="fpdFqIJwrTItEBIY+6wn5y5v6iK1KWN0g8uhOELmdXxuJ7heDO2FwByZAX+m375TyZEHboe8wEF7krpL7YqECA=="/>
+        </item>
+        <item>
             <title>2.8.1</title>
             <pubDate>Mon, 01 Jun 2026 11:57:42 +0000</pubDate>
             <sparkle:version>4483</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-8.html</sparkle:releaseNotesLink>
             <enclosure url="https://peachy.ventures/files/Sonoros-v2-8.zip" length="16380871" type="application/octet-stream" sparkle:edSignature="Q0G4j7La1o3iFhY6jd6ms2ufPuUtcY/Dp2X6OT2w58RXsvtwVOjLohINV2a4IFqahZJQ5Vl2kVECUD4UeVNBBw=="/>
-        </item>
-        <item>
-            <title>2.7</title>
-            <pubDate>Mon, 13 Apr 2026 18:07:17 +0100</pubDate>
-            <sparkle:version>4320</sparkle:version>
-            <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-7.html</sparkle:releaseNotesLink>
-            <enclosure url="https://peachy.ventures/files/Sonoros-v2-7.zip" length="12748823" type="application/octet-stream" sparkle:edSignature="Wzx8w1IF6kNnnbnCpSsJ9mcrBCnOG6CFEgpr+Yei+WqGIX2I3Vq4DeHQY7FI7kzshHegM6o1dT6kQUBNSZG+CQ=="/>
         </item>
         <item>
             <title>2.4.4</title>

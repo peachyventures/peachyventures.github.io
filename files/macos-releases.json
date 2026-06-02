@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "latest": "2.8.2",
+  "updated_at": "2026-06-02T13:42:12Z",
+  "releases": [
+    {
+      "version": "2.8.2",
+      "build": "4509",
+      "minimum_system_version": "11.0",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-8-2.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-8-2.html",
+      "source": {
+        "candidate_id": "build-4509",
+        "commit": "f169225098ac53a63821ce9d1203b0fde326bcda"
+      },
+      "date": "2026-06-02",
+      "published_at": "2026-06-02T13:42:12Z",
+      "download_size_bytes": 16342930
+    },
+    {
+      "version": "2.8.1",
+      "build": "4483",
+      "date": "2026-06-01",
+      "published_at": "2026-06-01T11:57:42Z",
+      "minimum_system_version": "11.0",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-8-1.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-8-1.html"
+    },
+    {
+      "version": "2.8",
+      "build": "4437",
+      "date": "2026-05-28",
+      "minimum_system_version": "11.0",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-8.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-8.html"
+    },
+    {
+      "version": "2.7",
+      "build": "4320",
+      "date": "2026-04-13",
+      "minimum_system_version": "11.0",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-7.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-7.html"
+    },
+    {
+      "version": "2.6.2",
+      "date": "2026-03-03",
+      "minimum_system_version": "11.0",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-6-2.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-6-2.html"
+    },
+    {
+      "version": "2.5.1",
+      "date": "2026-01-03",
+      "minimum_system_version": "11.0",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-5-1.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-5-1.html"
+    },
+    {
+      "version": "2.5",
+      "date": "2025-12-14",
+      "minimum_system_version": "11.0",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-5.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-5.html"
+    },
+    {
+      "version": "2.4.4",
+      "build": "3919",
+      "date": "2025-10-11",
+      "minimum_system_version": "10.14",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-4-4.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-4-4.html"
+    },
+    {
+      "version": "2.4.3",
+      "build": "3916",
+      "date": "2025-09-27",
+      "minimum_system_version": "10.14",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-4-3.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-4-3.html"
+    },
+    {
+      "version": "2.4.2",
+      "build": "3910",
+      "date": "2025-09-21",
+      "minimum_system_version": "10.14",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-4-2.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-4-2.html"
+    },
+    {
+      "version": "2.4",
+      "date": "2025-09-08",
+      "minimum_system_version": "10.14",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-4.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-4.html"
+    },
+    {
+      "version": "2.3.1",
+      "date": "2025-09-01",
+      "minimum_system_version": "10.14",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-3-1.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-3-1.html"
+    },
+    {
+      "version": "2.2",
+      "date": "2025-08-01",
+      "minimum_system_version": "10.14",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-2.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-2.html"
+    },
+    {
+      "version": "2.1.1",
+      "date": "2025-07-16",
+      "minimum_system_version": "10.14",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-1-1.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-1-1.html"
+    },
+    {
+      "version": "2.1",
+      "date": "2025-06-03",
+      "minimum_system_version": "10.14",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-1.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-1.html"
+    },
+    {
+      "version": "2.0",
+      "date": "2025-04-07",
+      "minimum_system_version": "10.14",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2.html"
+    },
+    {
+      "version": "1.10",
+      "date": "2025-01-27",
+      "minimum_system_version": "10.14",
+      "download_url": "https://peachy.ventures/files/Sonoros-v1-10.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v1-10.html"
+    }
+  ]
+}
