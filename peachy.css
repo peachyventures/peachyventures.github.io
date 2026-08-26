@@ -913,7 +913,7 @@ footer {
 
 .sonoros-section {
 	padding: 90px 0;
-	background-image: linear-gradient(rgba(0, 0, 0, 0.18), rgba(0, 0, 0, 0.18)), url('images/sonorosbg.png');
+	background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/sonorosbg.png');
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: bottom left;
