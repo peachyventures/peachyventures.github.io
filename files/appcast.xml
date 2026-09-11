@@ -3,6 +3,15 @@
     <channel>
         <title>Sonoros</title>
         <item>
+            <title>2.10.5</title>
+            <pubDate>Fri, 11 Sep 2026 14:05:51 +0000</pubDate>
+            <sparkle:version>4726</sparkle:version>
+            <sparkle:shortVersionString>2.10.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-10-5.html</sparkle:releaseNotesLink>
+            <enclosure url="https://peachy.ventures/files/Sonoros-v2-10-5.zip" length="18257893" type="application/octet-stream" sparkle:edSignature="JDzXr6UJiLpX1+WiMS1/zwDpkqmg6B44Ps9URwpBlUAd6QL/8J/KZGQZgm88pVJnY/Yna5NCepKRqO5EUB+PBA=="/>
+        </item>
+        <item>
             <title>2.10.3</title>
             <pubDate>Fri, 11 Sep 2026 11:51:49 +0000</pubDate>
             <sparkle:version>4723</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-10-2.html</sparkle:releaseNotesLink>
             <enclosure url="https://peachy.ventures/files/Sonoros-v2-10-2.zip" length="18246215" type="application/octet-stream" sparkle:edSignature="9656ZIXWezqgPiFxwEvd2JUs6ZKLfR3fbDtXo/KsfX54ro/SNwKNrynmWAArEarlsVjK3f5P9ydS9ETKUxMwDg=="/>
-        </item>
-        <item>
-            <title>2.10.1</title>
-            <pubDate>Thu, 10 Sep 2026 13:00:32 +0000</pubDate>
-            <sparkle:version>4718</sparkle:version>
-            <sparkle:shortVersionString>2.10.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-10-1.html</sparkle:releaseNotesLink>
-            <enclosure url="https://peachy.ventures/files/Sonoros-v2-10-1.zip" length="18245060" type="application/octet-stream" sparkle:edSignature="0p+7+I/sulzR/MnV6pKE3+Q65hOxpSndVByXOWorWIf20h5m2KdVxNcOZ6mB7IUpzJTihk6KxZkgciGYD1LYAw=="/>
         </item>
         <item>
             <title>2.4.4</title>
