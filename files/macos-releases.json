@@ -1,8 +1,22 @@
 {
   "schema_version": 1,
-  "latest": "2.11.2",
-  "updated_at": "2026-10-20T11:06:56Z",
+  "latest": "2.11.3",
+  "updated_at": "2026-10-22T15:04:22Z",
   "releases": [
+    {
+      "version": "2.11.3",
+      "build": "4839",
+      "minimum_system_version": "12.0",
+      "download_url": "https://peachy.ventures/files/Sonoros-v2-11-3.zip",
+      "release_notes_url": "https://peachy.ventures/files/Sonoros-v2-11-3.html",
+      "source": {
+        "candidate_id": "build-4839",
+        "commit": "e452d6dfb594e8454711a2d71cfb6dda38b22dd6"
+      },
+      "date": "2026-10-22",
+      "published_at": "2026-10-22T15:04:22Z",
+      "download_size_bytes": 18213344
+    },
     {
       "version": "2.11.2",
       "build": "4836",
