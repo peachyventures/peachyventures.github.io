@@ -3,13 +3,10 @@
 ## Peachy Support download
 
 GitHub Pages publishes `main` at the repository root to `https://peachy.ventures`.
-The unlisted `support.html` redirect is available at `/support` and
-`/support.html` and immediately navigates to the Mac ZIP. There is no download
-landing page. GitHub Pages does not offer configurable HTTP redirects, so a
-zero-delay HTML meta refresh supplies the redirect. A fallback link is present
-for browsers with scripting disabled. The redirect is excluded from search
-indexing and is not linked from the homepage. The download is public, not
-access-controlled.
+The unlisted `support.html` download page is available at `/support` and
+`/support.html`, with a Mac download button. It is excluded from search indexing
+using a robots meta tag and is not linked from the homepage. The page and ZIP
+are public, not access-controlled.
 
 The initial Mac download is `files/PeachySupport-macos-2026-11-03.zip`.
 Its only top-level item is `Peachy Support.app`; no release notes or separate
@@ -26,7 +23,7 @@ app bundle. Do not modify bundle contents after signing.
   artifacts and are not published here.
 
 For an update, copy the verified app-only ZIP to a new versioned filename under
-`files/`, update both support redirect URLs and this record, then commit/push `main`.
+`files/`, update the support page link and this record, then commit/push `main`.
 Do not overwrite older archives: versioned URLs keep downloads reproducible.
 If repackaging is necessary, use macOS `ditto -c -k --sequesterRsrc --keepParent`
 on the signed/stapled `.app`, then verify its extracted signature and ticket.
@@ -35,5 +32,5 @@ file. To recover a bad page/release, revert its website commit and verify the
 replacement Pages build; this does not require touching the support gateway.
 
 Only Mac Support is published. Windows Support and the Operator app are not
-published through this link. No model credentials, private signing keys, diagnostic
+offered on this page. No model credentials, private signing keys, diagnostic
 symbols or Operator configuration belong in this public repository.
