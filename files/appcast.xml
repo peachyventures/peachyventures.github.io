@@ -3,6 +3,15 @@
     <channel>
         <title>Sonoros</title>
         <item>
+            <title>2.11.10</title>
+            <pubDate>Fri, 13 Nov 2026 17:47:22 +0000</pubDate>
+            <sparkle:version>4854</sparkle:version>
+            <sparkle:shortVersionString>2.11.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-11-10.html</sparkle:releaseNotesLink>
+            <enclosure url="https://peachy.ventures/files/Sonoros-v2-11-10.zip" length="18218779" type="application/octet-stream" sparkle:edSignature="BjvWH/6Fe6afuyqIr1I8b8Tgz8l3iWzwLPz10Czxj1lthYfULexkYAfj/SSvzge0Ehf+ZUmvv1HdLcT43kYiCA=="/>
+        </item>
+        <item>
             <title>2.11.9</title>
             <pubDate>Mon, 02 Nov 2026 19:08:15 +0000</pubDate>
             <sparkle:version>4851</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-11-8.html</sparkle:releaseNotesLink>
             <enclosure url="https://peachy.ventures/files/Sonoros-v2-11-8.zip" length="18214754" type="application/octet-stream" sparkle:edSignature="zQh+t9cu9sVJpqHpXcbLX3+nHB04E8bV6/p+5m7qgM6ZNHsSsCZB31XTR8BYzJPD0BqTLhiFbcp7tfyuCVp/AQ=="/>
-        </item>
-        <item>
-            <title>2.11.7</title>
-            <pubDate>Thu, 29 Oct 2026 12:53:19 +0000</pubDate>
-            <sparkle:version>4845</sparkle:version>
-            <sparkle:shortVersionString>2.11.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://peachy.ventures/files/Sonoros-v2-11-7.html</sparkle:releaseNotesLink>
-            <enclosure url="https://peachy.ventures/files/Sonoros-v2-11-7.zip" length="18244472" type="application/octet-stream" sparkle:edSignature="RgdKkJaDSoz+/de3TpEGp2TYpEiyJ5ru7k6RZzfHcsndDE+2D3qPBRukyOLlxx0LMmK/QzPUfJP/1GwFBa+/DA=="/>
         </item>
         <item>
             <title>2.10.5</title>
