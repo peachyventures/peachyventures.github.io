@@ -8,16 +8,16 @@ The unlisted `support.html` download page is available at `/support` and
 using a robots meta tag and is not linked from the homepage. The page and ZIP
 are public, not access-controlled.
 
-The initial Mac download is `files/PeachySupport-macos-2026-11-03.zip`.
+The current Mac download is `files/PeachySupport-macos-2026-11-13.zip`.
 Its only top-level item is `Peachy Support.app`; no release notes or separate
 text files are included. Required third-party notices remain inside the signed
 app bundle. Do not modify bundle contents after signing.
 
 - Build source: `peachyventures/PeachyInfra` commit
-  `98ebc8596447dcf6fcde0d21eede5b777ef3afc5`.
-- Build run: <https://github.com/peachyventures/PeachyInfra/actions/runs/41684309819>.
-- Original artifact: `PeachySupport-macos-universal-19`, ID `13254292592`.
-- ZIP SHA-256: `265c08af2f3fd2d898d9b56d5f7df2edaaea490b098a822a6a4f3d66f5f3a688`.
+  `59417559e49a0e0c6a4ec5ba4369756ba62f09dd`.
+- Build run: <https://github.com/peachyventures/PeachyInfra/actions/runs/43453155200/attempts/2>.
+- Original artifact: `PeachySupport-macos-universal-20`, ID `14053203174`.
+- ZIP SHA-256: `1942bb4fb0cf29ffeca86594094e2c59f6643f16bfec5b7cc758e66184d1e4a8`.
 - Universal Apple Silicon/Intel, macOS 11 minimum; Developer ID signed,
   notarized and stapled. Matching diagnostic symbols stay in private build
   artifacts and are not published here.
